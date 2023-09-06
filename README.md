@@ -3,7 +3,7 @@ A TicTacToe app project with Flutter.
 
 </br> 
 
-## Sapport :
+## Support :
 - Android
 - IOS
 
